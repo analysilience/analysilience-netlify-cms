@@ -1,5 +1,11 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News', path: '/news'}
-
+nav_items:
+  - label: Over mij
+    path: /
+  - label: Coaching
+    path: /coaching
+  - label: Workshops
+    path: /workshops
+  - label: Inclusiviteit
+    path: /inclusiviteit
+  - label: English
+    path: /en
